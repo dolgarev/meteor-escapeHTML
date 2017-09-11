@@ -1,7 +1,7 @@
 Package.describe({
   name: 'liberation:escapehtml',
   summary: 'Expose internal method Blaze._escape',
-  version: '0.0.2',
+  version: '0.0.3',
   git: 'https://github.com/dolgarev/meteor-escapeHtml.git'
 });
 
