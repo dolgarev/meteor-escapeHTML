@@ -1,6 +1,6 @@
-(function() {
+(function () {
   var isString = function (val) {
-    return Object.prototype.toString.call(val) === "[object String]"
+    return Object.prototype.toString.call(val) === '[object String]'
   }
 
   if (!Blaze.escapeHtml) {
@@ -16,4 +16,4 @@
       )
     }
   }
-})();
+})()
